@@ -3,42 +3,43 @@
 ![state: not ready](https://img.shields.io/badge/status-not%20ready-red.svg)
 
 ## Project outline and details
-  1. Project name:
-  2. What kind (static website, game, mobile web app, etc.) of project is this:
-  3. What is this project about (please be detailed):
-  4. What research (do you need to learn about a person, find images, etc.) do you need to do for this project:
+  1. Project name: all about prestos
+  2. What kind (static website, game, mobile web app, etc.) of project is this: web app 
+  3. What is this project about (please be detailed): this is an ecommerce website where people can view and buy prestos sneakers.  
+  4. What research (do you need to learn about a person, find images, etc.) do you need to do for this project: i am going to need pictures of prestos sneakers and descriptions of the prestos sneakers and the prices
 
-  - **Date the project outline is scheduled to be completed:** 
-  - **Date the project outline was completed:**
-  - **Instructor/coordinator initials:**
-  - **Student initials:**
+  - **Date the project outline is scheduled to be completed:** 6/3/17 
+  - **Date the project outline was completed:** 6/3/17
+  - **Instructor/coordinator initials:** sm
+  - **Student initials:** shj
 
 ## Skill tracking (Level 1)
 
 ### 1. Tools 
 #### I. Tools Introduction
-  1. [ ] code editors & IDEs
-  2. [ ] github part 1 - introduction
+  1. [x] code editors & IDEs
+  2. [x] github part 1 - introduction
 
 ### 2. Code 
 #### I. Project Setup and Basic Page Structure
-  1. [ ] create an index.html file
-  2. [ ] create a style.css file
-  3. [ ] `<!DOCTYPE html>`
-  4. [ ] html tags
-  5. [ ] head tags
-  6. [ ] body tags
-  7. [ ] link the style.css file to the index.html file
+  1. [x] create an index.html file
+  2. [x] create a style.css file
+  3. [x] `<!DOCTYPE html>`
+  4. [x] html tags
+  5. [x] head tags
+  6. [x] body tags
+  7. [x] link the style.css file to the index.html file
 
   ##### Rating:
   1. [ ] student has mastered this skill
-  2. [ ] student understands this skill, but could use reinforcement
+  2. [x] student understands this skill, but could use reinforcement
   3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
 
-  - **Date the project setup is scheduled to be completed:** 
-  - **Date the project setup was completed:** 
-  - **Instructor/coordinator initials:**
-  - **Student initials:**  
+  - **Date the project setup is scheduled to be completed:** 6/3/17
+  - **Date the project setup was completed:** 6/3/17
+  - **Instructor/coordinator initials:** SM
+  - **Student initials:**  shj
+ 
 
 #### II. Adding basic text content
   1. [ ] add (1) h1 tag (the h1 tag is the main title for the page)
