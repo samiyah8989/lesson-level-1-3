@@ -42,16 +42,16 @@
  
 
 #### II. Adding basic text content
-  1. [ ] add (1) h1 tag (the h1 tag is the main title for the page)
-  - Please describe what you are adding to your h1 tag:
-  2. [ ] add at least (2) h2 tags (each h2 tag is a section of the site) 
-  - Please describe what you are adding to your first h2 tag:
-  - Please describe what you are adding to your second h2 tag:
-  3. [ ] add at least (4) p tags (there should be at least 2 p tags under each h2 tag)
-  - Please describe what you are adding to your first p tag:
-  - Please describe what you are adding to your second p tag:
-  - Please describe what you are adding to your third p tag:
-  - Please describe what you are adding to your fourth p tag:  
+  1. [x] add (1) h1 tag (the h1 tag is the main title for the page) 
+  - Please describe what you are adding to your h1 tag: All about prestos & jordans
+  2. [x] add at least (2) h2 tags (each h2 tag is a section of the site) 
+  - Please describe what you are adding to your first h2 tag: all about prestos
+  - Please describe what you are adding to your second h2 tag: all about jordans
+  3. [x] add at least (4) p tags (there should be at least 2 p tags under each h2 tag)
+  - Please describe what you are adding to your first p tag: Prestos are a shoe brand that is combinded by nike and fila
+  - Please describe what you are adding to your second p tag: prestos come in diffrent colors and sizes
+  - Please describe what you are adding to your third p tag: jordans are the third most popular shoe brand in america 
+  - Please describe what you are adding to your fourth p tag: jordans came from the basketball player micheal jordan  
   4. [ ] indentation
 
   ##### Rating:
@@ -59,10 +59,10 @@
   2. [ ] student understands this skill, but could use reinforcement
   3. [ ] student has not mastered this skill yet and reinforcement is needed (if you are selecting this rating please provide a brief explanation of where reinforcement is needed)
 
-  - **Date the basic text content is scheduled to be completed:** 
+  - **Date the basic text content is scheduled to be completed:** 6/24 
   - **Date the basic text content was completed:**  
   - **Instructor/coordinator initials:** 
-  - **Student initials:**  
+  - **Student initials:** SHJ 
 
 #### III. Adding basic style
   1. [ ] start by adding styles inside of style tags in the html file
